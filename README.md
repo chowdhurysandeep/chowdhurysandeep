@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandeep Chowdhury
 
-<!--
-**chowdhurysandeep/chowdhurysandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing a Diploma in Ethical Hacking  
+💻 Passionate about Red Teaming, Penetration Testing, and Digital Forensics  
+🏆 Completed multiple CTFs on TryHackMe and HackTheBox  
+📄 Skilled in Linux, Nmap, Burp Suite, Metasploit, Wireshark  
 
-Here are some ideas to get you started:
+## 🧰 Tools & Technologies
+- OS: Kali Linux, Parrot OS  
+- Pentesting: Nmap, Burp Suite, Metasploit, Gobuster, sqlmap  
+- Scripting: Python, Bash  
+- Reporting: Markdown, LaTeX, MS Word   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Learning Journey
+📚 Practicing daily on TryHackMe, HackTheBox, and PortSwigger Academy  
+🔍 Interested in real-world red team engagements and vulnerability research  
+
+📫 [LinkedIn](www.linkedin.com/in/sandeep-chowdhury-661a54397)
