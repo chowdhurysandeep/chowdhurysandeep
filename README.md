@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sandeep Chowdhury
+# 👋 Hi, I'm Sandeep Prasad Chowdhury
 
 > 🎓 Diploma Student in Ethical Hacking | 🔴 Red Team & Pentesting Enthusiast | 🔒 CTF Player | 📍 India
 
