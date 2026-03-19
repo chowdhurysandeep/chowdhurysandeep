@@ -28,7 +28,7 @@
 
 ## 📂 Featured Projects
 
-### 🔐 [PassCracker](https://github.com/chowdhurysandeep/Password_Checker)
+### 🔐 [PasswordCracker](https://github.com/chowdhurysandeep/Password_Checker)
 > Password strength analyzer using **Shannon entropy** — checks character pools, gives improvement suggestions, and generates secure passwords.
 - Built with: `Python` · `string` · `math` · `random`
 
